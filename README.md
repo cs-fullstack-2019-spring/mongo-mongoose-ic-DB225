@@ -3,7 +3,7 @@
 ### Exercise 1: Create an Endpoint for a ToDo Web Service to Create Test Data
 
 * Create a new Express web service called (manually, or with the Express Generator)
-* Sign into your MLab account, and create a new collection called ```todotest``` (NOTE the connection String)
+* Sign into your mongoDB account, and create a new collection called ```todotest``` (NOTE the connection String that gets generated!)
 * Create a Mongoose data model called ```ToDoItem``` with 2 text fields ```username```,```todoitem``` and 1 boolean field ```isdone```
 
 
